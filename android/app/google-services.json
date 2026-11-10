@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811372761631",
+    "project_id": "cloud-courier-f87d1",
+    "storage_bucket": "cloud-courier-f87d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811372761631:android:850844c88144330426bb2a",
+        "android_client_info": {
+          "package_name": "com.example.cloud_courier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9v-j-5_INycJh9qMQnqgHpKLhZF3JOLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
